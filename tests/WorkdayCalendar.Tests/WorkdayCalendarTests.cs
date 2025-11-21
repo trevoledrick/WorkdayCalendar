@@ -51,7 +51,6 @@ namespace WorkdayCalendar.Tests
             // Act
             var result = calendar.AddWorkdays(start, -6.7470217);
 
-            Console.WriteLine($"Result: {result:yyyy-MM-dd HH:mm:ss.fffffff}");
             // Assert
             var expected = new DateTime(2004, 5, 13, 10, 2, 0); // May 13, 2004, 10:02 AM
             

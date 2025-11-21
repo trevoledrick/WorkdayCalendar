@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XD5ftkMXACMm5hfFJChvZ55UO48O2MfSDihXnr9r5nBjkVYorwViZDlpp9mt5vEEi/ZLiAaQmM+lTpHj8cfRow==",
+  "dgSpecHash": "KXmwyOcKd1s=",
   "success": true,
   "projectFilePath": "/Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/tests/WorkdayCalendar.Tests/WorkdayCalendar.Tests.csproj",
   "expectedPackageFiles": [
@@ -95,7 +95,9 @@
     "/Users/trevoledrick/.nuget/packages/xunit.core/2.4.1/xunit.core.2.4.1.nupkg.sha512",
     "/Users/trevoledrick/.nuget/packages/xunit.extensibility.core/2.4.1/xunit.extensibility.core.2.4.1.nupkg.sha512",
     "/Users/trevoledrick/.nuget/packages/xunit.extensibility.execution/2.4.1/xunit.extensibility.execution.2.4.1.nupkg.sha512",
-    "/Users/trevoledrick/.nuget/packages/xunit.runner.visualstudio/2.4.3/xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+    "/Users/trevoledrick/.nuget/packages/xunit.runner.visualstudio/2.4.3/xunit.runner.visualstudio.2.4.3.nupkg.sha512",
+    "/Users/trevoledrick/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/trevoledrick/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
   ],
   "logs": []
 }

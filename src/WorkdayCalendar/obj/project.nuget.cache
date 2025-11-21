@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HYsswBqiabdjsnAqkPR68btO1j7Kizq1voKFLaNFgCC0cBtmuT8iMQT+ocoolZ+PQjLq4hnf06ADFuZIEkEugA==",
+  "dgSpecHash": "Rh+Zm0w5PaI=",
   "success": true,
   "projectFilePath": "/Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/src/WorkdayCalendar/WorkdayCalendar.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/trevoledrick/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/trevoledrick/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }
