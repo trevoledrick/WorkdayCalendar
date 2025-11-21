@@ -19,10 +19,10 @@ public class WorkdayCalendar : IWorkdayCalculator
         }
 
         int direction = workdays > 0 ? 1 : -1;
-        double absoluteWorkdays = Math.Abs(workdays);
+        decimal absoluteWorkdays = Math.Abs((decimal)workdays);
 
-        int wholeDays = (int)Math.Truncate(absoluteWorkdays);
-        double fractionalPart = absoluteWorkdays - wholeDays;
+        int wholeDays = (int)decimal.Truncate(absoluteWorkdays);
+        decimal fractionalPart = absoluteWorkdays - wholeDays;
 
         DateTime current = direction > 0 ? NormalizeForward(start) : NormalizeBackward(start);
 
@@ -42,9 +42,10 @@ public class WorkdayCalendar : IWorkdayCalculator
         {
             return current;
         }
-        
-        var fractionalDuration = TimeSpan.FromTicks(
-            (long)(_workdaySettings.WorkdayLength.Ticks * fractionalPart));
+
+        var fractionalTicksDecimal = (decimal)_workdaySettings.WorkdayLength.Ticks * fractionalPart;
+        var fractionalTicks = (long)Math.Round(fractionalTicksDecimal, MidpointRounding.AwayFromZero);
+        var fractionalDuration = TimeSpan.FromTicks(fractionalTicks);
 
         if (direction > 0)
         {

@@ -1,8 +1,6 @@
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/src/WorkdayCalendar/bin/Debug/net6.0/WorkdayCalendar.deps.json
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/src/WorkdayCalendar/bin/Debug/net6.0/WorkdayCalendar.dll
-/Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/src/WorkdayCalendar/bin/Debug/net6.0/ref/WorkdayCalendar.dll
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/src/WorkdayCalendar/bin/Debug/net6.0/WorkdayCalendar.pdb
-/Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/src/WorkdayCalendar/obj/Debug/net6.0/WorkdayCalendar.csproj.AssemblyReference.cache
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/src/WorkdayCalendar/obj/Debug/net6.0/WorkdayCalendar.GeneratedMSBuildEditorConfig.editorconfig
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/src/WorkdayCalendar/obj/Debug/net6.0/WorkdayCalendar.AssemblyInfoInputs.cache
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/src/WorkdayCalendar/obj/Debug/net6.0/WorkdayCalendar.AssemblyInfo.cs
@@ -10,3 +8,5 @@
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/src/WorkdayCalendar/obj/Debug/net6.0/WorkdayCalendar.dll
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/src/WorkdayCalendar/obj/Debug/net6.0/ref/WorkdayCalendar.dll
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/src/WorkdayCalendar/obj/Debug/net6.0/WorkdayCalendar.pdb
+/Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/src/WorkdayCalendar/bin/Debug/net6.0/ref/WorkdayCalendar.dll
+/Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/src/WorkdayCalendar/obj/Debug/net6.0/WorkdayCalendar.csproj.AssemblyReference.cache

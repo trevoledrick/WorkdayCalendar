@@ -6,7 +6,6 @@
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/tests/WorkdayCalendar.Tests/bin/Debug/net6.0/WorkdayCalendar.Tests.deps.json
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/tests/WorkdayCalendar.Tests/bin/Debug/net6.0/WorkdayCalendar.Tests.runtimeconfig.json
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/tests/WorkdayCalendar.Tests/bin/Debug/net6.0/WorkdayCalendar.Tests.dll
-/Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/tests/WorkdayCalendar.Tests/bin/Debug/net6.0/ref/WorkdayCalendar.Tests.dll
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/tests/WorkdayCalendar.Tests/bin/Debug/net6.0/WorkdayCalendar.Tests.pdb
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/tests/WorkdayCalendar.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/tests/WorkdayCalendar.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
@@ -94,8 +93,9 @@
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/tests/WorkdayCalendar.Tests/obj/Debug/net6.0/WorkdayCalendar.Tests.AssemblyInfoInputs.cache
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/tests/WorkdayCalendar.Tests/obj/Debug/net6.0/WorkdayCalendar.Tests.AssemblyInfo.cs
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/tests/WorkdayCalendar.Tests/obj/Debug/net6.0/WorkdayCalendar.Tests.csproj.CoreCompileInputs.cache
-/Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/tests/WorkdayCalendar.Tests/obj/Debug/net6.0/WorkdayCalendar.Tests.csproj.CopyComplete
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/tests/WorkdayCalendar.Tests/obj/Debug/net6.0/WorkdayCalendar.Tests.dll
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/tests/WorkdayCalendar.Tests/obj/Debug/net6.0/ref/WorkdayCalendar.Tests.dll
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/tests/WorkdayCalendar.Tests/obj/Debug/net6.0/WorkdayCalendar.Tests.pdb
 /Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/tests/WorkdayCalendar.Tests/obj/Debug/net6.0/WorkdayCalendar.Tests.genruntimeconfig.cache
+/Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/tests/WorkdayCalendar.Tests/bin/Debug/net6.0/ref/WorkdayCalendar.Tests.dll
+/Users/trevoledrick/Documents/Github/ElementLogicCaseOppgave/ElementLogic-CaseOppgave/tests/WorkdayCalendar.Tests/obj/Debug/net6.0/WorkdayCalendar.Tests.csproj.CopyComplete
