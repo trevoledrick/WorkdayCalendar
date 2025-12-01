@@ -15,16 +15,16 @@ The project is written in **C# (.NET 6)** and designed with clean architecture p
 
 ## Project Structure
 
-/src
-/WorkdayCalendar
-- WorkdayCalendar.cs
-- WorkdaySettings.cs
-- HolidayCalendar.cs
-- Interfaces (IWorkdayCalendar, IHolidayCalendar, IWorkdaySettings)
+- /src
+    - /WorkdayCalendar
+        - WorkdayCalendar.cs
+        - WorkdaySettings.cs
+        - HolidayCalendar.cs
+        - Interfaces (IWorkdayCalendar, IHolidayCalendar, IWorkdaySettings)
 
-/tests
-/WorkdayCalendar.Tests
-- WorkdayCalendarTests.cs
+- /tests
+    - /WorkdayCalendar.Tests
+        - WorkdayCalendarTests.cs
 
 ---
 
@@ -90,23 +90,18 @@ var result = calendar.AddWorkdays(new DateTime(2004, 5, 24, 18, 05, 00), -5.5);
 
 ## Design Principles
 
-SOLID
-
-Separation of concerns
-
-Dependency injection
-
-Testability
-
-Predictable domain logic
+- SOLID
+- Separation of concerns
+- Dependency injection
+- Testability
+- Predictable domain logic
 
 ---
 
 ## Requirements
 
-.NET 6 SDK
-
-xUnit for tests
+- .NET 6 SDK
+- xUnit for tests
 
 ---
 
@@ -121,7 +116,3 @@ Run tests:
 ```
 dotnet test
 ```
-
----
-
-## License
